@@ -1,5 +1,5 @@
 #define MyAppName "Award Signature"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.2.0"
 #define MyAppPublisher "Учебный проект"
 #define MyAppExeName "AwardSignature.exe"
 
