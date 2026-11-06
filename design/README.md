@@ -14,4 +14,4 @@
 
 ## Ссылка на интерактивный прототип в Figma
 
-[Открыть прототип в Figma](https://www.figma.com/file/ТВОЯ_ССЫЛКА)
+[Открыть прототип в Figma](https://www.figma.com/design/1QfSGrHf8LTNhOn7RHoH14/Award-Signature-UI?node-id=1-2&t=IdLRA2clxbTH5PYJ-1)
